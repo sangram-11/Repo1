@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A8EF-CBEA
+
+ Directory of C:\Users\user\Desktop\MyProject
+
+07-08-2018  14:55    <DIR>          .
+07-08-2018  14:55    <DIR>          ..
+07-08-2018  14:55                 0 Test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  29,302,489,088 bytes free
